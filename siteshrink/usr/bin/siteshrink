@@ -1,0 +1,3 @@
+#!/bin/bash
+# @sincronicx
+python /usr/local/siteshrink/siteshrink.py

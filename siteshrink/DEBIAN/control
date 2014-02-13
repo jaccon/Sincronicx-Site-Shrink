@@ -1,0 +1,7 @@
+Package: sincronicxsiteshrink 
+Version: 1.0
+Section: utilites 
+Maintainer: Sincronicx <sincronicx@gmail.com>
+Architecture: all
+Depends: python 
+Description: Simple and fast url downloader 
